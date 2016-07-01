@@ -11,4 +11,4 @@ Here is the list of included widgets and actions attached to them:
 - `SeekBar`, displays perogress (%) in `TextView` on drag
 - `Button`, shows text in `TextView` that is read from `EditText`, on click
 
- ![AdroidWidgets](AndroidWidgets.png =300x)
+<img src="AndroidWidgets.png" alt="AdroidWidgets" style="width: 300px;"/>
