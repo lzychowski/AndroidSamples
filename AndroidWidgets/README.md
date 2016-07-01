@@ -10,6 +10,5 @@ Here is the list of included widgets and actions attached to them:
 - `RadioGroup` with 3 `RadioButton` widgets, shows which `RadioButton` is checked by changing `TextView` on click
 - `SeekBar`, displays perogress (%) in `TextView` on drag
 - `Button`, shows text in `TextView` that is read from `EditText`, on click
-<img src="AndroidWidgets.png" width="360px"/>
 
- ![AdroidWidgets](AndroidWidgets.png)
+<img src="AndroidWidgets.png" width="360px"/>
