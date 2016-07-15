@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Random Treasure Generator</string>
+    <string name="game_name">Dungeon Saga</string>
+    <string name="generate_button">Find Random Treasure</string>
+    <string name="expac_header">Expansions to include</string>
+    <string name="level_header">Only select treasure for this level heroes</string>
+
+    <string name="DKQ_name">Dwarf King's Quest</string>
+    <string name="AC_name">Adventurer's Companion</string>
+    <string name="RTV_name">Return to Valandor</string>
+    <string name="IC_name">Infernal Crypts</string>
+    <string name="WOG_name">Warlord of Galahir</string>
+    <string name="TOH_name">Tyrant of Halpi</string>
+
+</resources>

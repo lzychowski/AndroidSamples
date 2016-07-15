@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yolonerds.dstreasurechest">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_chest"
+        android:label="Random Treasure Generator"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".Generator">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Settings"
+            android:parentActivityName=".Generator"></activity>
+    </application>
+
+</manifest>
