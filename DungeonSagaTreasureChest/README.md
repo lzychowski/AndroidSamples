@@ -10,6 +10,10 @@ This application is based on Thomas Sidener's (UIS) iPhone application with the 
 
 SQLite database is used to store the list of items, their level, and the expansions they belong to.  Adding items can be done by inserting new records into the database file.  At this point in time adding expansions would require a minor code change.
 
+## Google Play Store
+
+You can get this app for Android at https://play.google.com/store/apps/details?id=com.yolonerds.dstreasurechest
+
 ## Screenshots
 
 Welcome screen with instructions
