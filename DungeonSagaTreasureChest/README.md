@@ -4,7 +4,7 @@ This project can be built into a Random Treasure Generator Android application f
 
 When a Dungeon Saga board game player encounters a chest and is prompted to pick a random item, the player can use this application to generate a random treasure.  Player can pick from the list of expansions that they own and can also filter items by level requirements.  This introduces real randomness to the game, helps with poorly shuffled deck, and allows to remove items above player's level.
 
-This application is based on Thomas Snider's (UIS) iPhone application with the same features.
+This application is based on Thomas Sidener's (UIS) iPhone application with the same features.
 
 ## SQLite
 
