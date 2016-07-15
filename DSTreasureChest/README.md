@@ -6,19 +6,19 @@ When a board game player encounters a chest and is prompted to pick a random ite
 
 Welcome screen with instructions
 
-<img src="Screenshot_1.png" width 360px" />
+<img src="Screenshot_1.png" width="360px" />
 
 Settings
 
-<img src="Screenshot_2.png" width 360px" />
+<img src="Screenshot_2.png" width="360px" />
 
 Generated item
 
-<img src="Screenshot_3.png" width 360px" />
+<img src="Screenshot_3.png" width="360px" />
 
 Warning message when no expansions are selected
 
-<img src="Screenshot_4.png" width 360px" />
+<img src="Screenshot_4.png" width="360px" />
 
 ## SQLite
 
